@@ -14,7 +14,7 @@
 
 I'm a passionate **Computer Science student** and **Machine Learning enthusiast** with a strong foundation in software development and data science. Currently focused on building innovative projects that combine **AI/ML technologies** with **web development**.
 
-- 🎓 **Student** pursuing Computer Science with specialization in Machine Learning
+- 🎓 **Student** pursuing B.Tech in Computer Science and Engineering at Indian Institute of Technology Palakkad
 - 💼 **Open to opportunities** in Software Development, Data Science, and Machine Learning roles
 - 🌱 Currently learning **ML algorithms**, and **Full Stack Development**
 - 💡 Passionate about **AI applications**, **Web Technologies**, and **Data Analysis**
