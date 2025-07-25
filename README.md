@@ -73,7 +73,7 @@ I'm a passionate **Computer Science student** and **Machine Learning enthusiast*
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GBhavaniShankar&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=GBhavaniShankar&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <!-- ---
